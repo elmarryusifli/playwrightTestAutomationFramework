@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Playwright
+.env
+test-results/
+playwright-report/
+
+# IDE
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
