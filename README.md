@@ -25,6 +25,7 @@ This project is a Playwright-based testing framework designed to facilitate auto
     ```
 
 ## Configuration
+    
     The framework uses playwright.config.ts for configuration. This file includes settings for environment variables and other configuration options.
 
 ## Running Tests
@@ -49,8 +50,8 @@ Tests should be written in the src/tests directory.
 @playwright/test: Playwright test runner for end-to-end testing.
 typescript: TypeScript language support.
 
-Author
+## Author
 Elmar Yusifli
 
-Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
